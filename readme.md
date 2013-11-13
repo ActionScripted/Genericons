@@ -84,6 +84,8 @@ Also note the CSS property "-webkit-font-smoothing: antialiased". That makes the
 To-Do
 ---
 
+* Document how everything works! From the font files to the final product so anyone can jump in
+* Document standards for submissions
 * Cleanup Trip Advisor glyph and move to proper code point
 * Settle on a standard source format, ideally a (F)OSS one
 * Update examples and further cleanup any possible brand/trademark stuff
