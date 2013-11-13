@@ -81,6 +81,13 @@ Note that Genericons has been designed for a 16x16 pixel grid. That means it'll 
 
 Also note the CSS property "-webkit-font-smoothing: antialiased". That makes the icons look great in WebKit browsers. Please see http://noscope.com/2012/font-smoothing for more info.
 
+To-Do
+---
+
+* Cleanup Trip Advisor glyph and move to proper code point
+* Settle on a standard source format, ideally a (F)OSS one
+* Update examples and further cleanup any possible brand/trademark stuff
+
 
 Change Log
 ---
