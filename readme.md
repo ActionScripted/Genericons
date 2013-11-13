@@ -1,9 +1,9 @@
 Genericons Provisions
 ===
 
-Genericons are vector icons embedded in a webfont designed to be clean and simple keeping with a generic aesthetic and were originall created by Automattic (http://genericons.com/ and https://github.com/Automattic/Genericons). Use genericons for instant HiDPI, to change icon colors on the fly, or even with CSS effects such as drop-shadows or gradients!
+Genericons are vector icons embedded in a webfont designed to be clean and simple keeping with a generic aesthetic and were originally created by Automattic ([Site](http://genericons.com/), [GitHub](https://github.com/Automattic/Genericons)). Use genericons for instant HiDPI, to change icon colors on the fly, or even with CSS effects such as drop-shadows or gradients!
 
-Genericons are awesome but their development is a bit cautious (rightfully so). Genericons Provisions aims to contribute new glyphs and offer ways for developers to deploy their own versions or contribute to existing ones using provided source files in a more expedient manner.
+Genericons Provisions aims to contribute new glyphs and offer ways for developers to deploy their own versions or contribute to existing ones using provided source files.
 
 
 Feedback
