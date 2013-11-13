@@ -85,6 +85,7 @@ Change Log
 ---
 
 V3.0.3:
+
 Forked, readme changes, Trip Advisor, source files and a few other bits
     * Forked from https://github.com/Automattic/Genericons
     * Converted README to Markdown and updated a bit
@@ -97,6 +98,7 @@ Pre-Fork Change Log (from https://github.com/Automattic/Genericons)
 ---
 
 V3.0.2:
+
 A slew of new stuff and updates.
     * Social icons: Skype, Digg, Reddit, Stumbleupon, Pocket.
     * New generic icons: heart, lock and print.
@@ -110,6 +112,7 @@ A slew of new stuff and updates.
     * The Twitter icon has been scaled down to fit with the other social icons.
 
 V3.0.1:
+
 Mostly maintenance.
     * Fixed an issue with the example page that showed an old "top" icon instead of the actual NEW "refresh" icon.
     * Added inverse Google+ and Path.
@@ -117,6 +120,7 @@ Mostly maintenance.
     * Changed the Genericons.com copy/paste tool to serve span's instead of div's for casual icon insertion. It's being converted to "inline-block" anyway.
 
 V3.0:
+
 Mainly maintenance and a few new icons.
     * Fast forward, rewind, PollDaddy, Notice, Info, Help, Portfolio
     * Updated the feed icon. It's a bit smaller now for consistency, the previous one was rather big.
@@ -125,13 +129,17 @@ Mainly maintenance and a few new icons.
     * The CSS has prettier formatting, props Konstantin Obenland.
 
 V2.09:
+
 Updated Facebook icon to new version. Updated Instagram logo to use new one-color version. Updated Google+ icon to use same radius as Instagram and Facebook. Added a bunch of new icons, cog, unapprove, cart, media player buttons, tablet, send to tablet.
 
 V2.06:
+
 Included Base64 encoded version. This is necessary for Genericons to work with CDNs in Firefox. Firefox blocks fonts linked from a different domain. A CDN (typically s.example.com) usually puts the font on a subdomain, and is hence blocked in Firefox.
 
 V2.05:
+
 Added a bunch of new icons, including upload to cloud, download to cloud, many more.
 
 V2:
+
 Initial public release
