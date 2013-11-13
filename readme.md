@@ -95,8 +95,10 @@ V3.0.3:
     * Adding release tag for downloads
 
 
-Pre-Fork Change Log (from https://github.com/Automattic/Genericons)
+Pre-Fork Change Log
 ---
+
+(from https://github.com/Automattic/Genericons)
 
 V3.0.2:
 
