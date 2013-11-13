@@ -89,6 +89,7 @@ To-Do
 * Cleanup Trip Advisor glyph and move to proper code point
 * Settle on a standard source format, ideally a (F)OSS one
 * Update examples and further cleanup any possible brand/trademark stuff
+* Add development branch for experimental releases
 
 
 Change Log
