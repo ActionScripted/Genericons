@@ -19,15 +19,16 @@ Currently only setup to work with Glyphs (http://glyphsapp.com/) but will hopefu
 
 New glyphs:
 
-    * Grab the free version of Glyphs
-    * Drop your new glyphs in, being mindful of the code point numbering for type groups (social, etc.)
-    * Submit a pull request
+* Grab the free version of Glyphs
+* Drop your new glyphs in, being mindful of the code point numbering for type groups (social, etc.)
+* Submit a pull request
 
 
 Contribution Notes
 ---
-    * Use advanced mode in FontSquirrel or you're going to get a subset of glyphs and things won't work
-    * For rapid glyph development, you can start in Illustrator (2800x2800) and copy/paste into Glyphs
+
+* Use advanced mode in FontSquirrel or you're going to get a subset of glyphs and things won't work
+* For rapid glyph development, you can start in Illustrator (2800x2800) and copy/paste into Glyphs
 
 
 Usage
@@ -86,7 +87,7 @@ Change Log
 
 V3.0.3:
 
-Forked, readme changes, Trip Advisor, source files and a few other bits
+* Forked, readme changes, Trip Advisor, source files and a few other bits
     * Forked from https://github.com/Automattic/Genericons
     * Converted README to Markdown and updated a bit
     * Added Trip Advisor to the end of the logos/social/sharing range at code point (\F299)
@@ -99,7 +100,7 @@ Pre-Fork Change Log (from https://github.com/Automattic/Genericons)
 
 V3.0.2:
 
-A slew of new stuff and updates.
+* A slew of new stuff and updates.
     * Social icons: Skype, Digg, Reddit, Stumbleupon, Pocket.
     * New generic icons: heart, lock and print.
     * New editing icons: code, bold, italic, image
@@ -113,7 +114,7 @@ A slew of new stuff and updates.
 
 V3.0.1:
 
-Mostly maintenance.
+* Mostly maintenance.
     * Fixed an issue with the example page that showed an old "top" icon instead of the actual NEW "refresh" icon.
     * Added inverse Google+ and Path.
     * Replaced tabs with spaces in the helper CSS.
@@ -121,7 +122,7 @@ Mostly maintenance.
 
 V3.0:
 
-Mainly maintenance and a few new icons.
+* Mainly maintenance and a few new icons.
     * Fast forward, rewind, PollDaddy, Notice, Info, Help, Portfolio
     * Updated the feed icon. It's a bit smaller now for consistency, the previous one was rather big.
     * So, the previous version numbering, 2.09, wasn't very PHP version compare friendly. So from now on it'll be 3.0, 3.1 etc. Props Ipstenu.
@@ -130,16 +131,16 @@ Mainly maintenance and a few new icons.
 
 V2.09:
 
-Updated Facebook icon to new version. Updated Instagram logo to use new one-color version. Updated Google+ icon to use same radius as Instagram and Facebook. Added a bunch of new icons, cog, unapprove, cart, media player buttons, tablet, send to tablet.
+* Updated Facebook icon to new version. Updated Instagram logo to use new one-color version. Updated Google+ icon to use same radius as Instagram and Facebook. Added a bunch of new icons, cog, unapprove, cart, media player buttons, tablet, send to tablet.
 
 V2.06:
 
-Included Base64 encoded version. This is necessary for Genericons to work with CDNs in Firefox. Firefox blocks fonts linked from a different domain. A CDN (typically s.example.com) usually puts the font on a subdomain, and is hence blocked in Firefox.
+* Included Base64 encoded version. This is necessary for Genericons to work with CDNs in Firefox. Firefox blocks fonts linked from a different domain. A CDN (typically s.example.com) usually puts the font on a subdomain, and is hence blocked in Firefox.
 
 V2.05:
 
-Added a bunch of new icons, including upload to cloud, download to cloud, many more.
+* Added a bunch of new icons, including upload to cloud, download to cloud, many more.
 
 V2:
 
-Initial public release
+* Initial public release
