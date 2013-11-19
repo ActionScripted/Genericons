@@ -141,6 +141,8 @@
 .genericon-expand:before {          content: '\f431'; }
 .genericon-collapse:before {        content: '\f432'; }
 .genericon-dropdown:before {        content: '\f433'; }
+.genericon-collapse-right:before {  content: '\f504'; }
+.genericon-collapse-left:before {   content: '\f505'; }
 .genericon-dropdown-left:before {   content: '\f434'; }
 .genericon-top:before {             content: '\f435'; }
 .genericon-draggable:before {       content: '\f436'; }

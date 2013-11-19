@@ -83,6 +83,8 @@ value = (
     uniF430,
     uniF431,
     uniF432,
+    uniF504,
+    uniF505,
     uniF433,
     uniF434,
     uniF435,
@@ -131,7 +133,7 @@ value = (
 );
 }
 );
-date = "2013-11-13 04:43:35 +0000";
+date = "2013-11-19 16:52:33 +0000";
 designer = "Joen Asmussen, Michael Thompson";
 familyName = "Genericons-Provisions";
 fontMaster = (
@@ -5641,6 +5643,7 @@ unicode = F430;
 },
 {
 glyphname = uniF431;
+lastChange = "2013-11-19 16:50:28 -0500";
 layers = (
 {
 layerId = "BB9D08C5-CC12-4AD2-9413-180A7C7733FD";
@@ -5686,6 +5689,55 @@ width = 2048;
 }
 );
 unicode = F432;
+},
+{
+glyphname = uniF504;
+lastChange = "2013-11-19 16:52:10 -0500";
+layers = (
+{
+layerId = "BB9D08C5-CC12-4AD2-9413-180A7C7733FD";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"736 1505 LINE",
+"608 1377 LINE",
+"1056 929 LINE",
+"608 481 LINE",
+"736 353 LINE",
+"1312 929 LINE"
+);
+}
+);
+width = 2048;
+}
+);
+unicode = F504;
+},
+{
+glyphname = uniF505;
+layers = (
+{
+layerId = "BB9D08C5-CC12-4AD2-9413-180A7C7733FD";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1184 353 LINE",
+"1312 481 LINE",
+"864 929 LINE",
+"1312 1377 LINE",
+"1184 1505 LINE",
+"608 929 LINE"
+);
+}
+);
+width = 2048;
+}
+);
+unicode = F505;
 },
 {
 glyphname = uniF433;
@@ -7953,5 +8005,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 3;
-versionMinor = 3;
+versionMinor = 4;
 }
